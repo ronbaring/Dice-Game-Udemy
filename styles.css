@@ -40,3 +40,18 @@ footer {
 
 }
 
+.rollButton{
+  width: 15%;
+  margin: 3rem auto;
+}
+
+button {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+  letter-spacing: 3px;
+  background-color: rgb(185, 105, 105);
+}
